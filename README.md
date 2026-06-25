@@ -51,10 +51,10 @@ This pipeline solves that problem by using a **border-confined checkerboard patt
 If you use this code in your research, please cite our paper:
 
 ```bibtex
-@inproceedings{ingole2026design,
+@unpublished{ingole2026design,
   title={Design and Validation of a Needle Driver System for Minimally Invasive Surgery},
-  author={Ingole, Pranali and Patel, Niravkumar},
-  booktitle={Proceedings of the IPROMM Conference},
+  author={Ingole, P. and Patel, N.},
+  note={Submitted to the IPROMM Conference},
   year={2026}
 }
 ```
