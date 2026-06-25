@@ -1,6 +1,5 @@
 # border-confined-grid
 Generates an evenly spaced reference grid from a border-only checkerboard to provide an unoccluded view for tracking 
-# Border-Confined Grid Calibration for Needle Tracking
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
